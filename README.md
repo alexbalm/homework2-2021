@@ -1,2 +1,2 @@
-# homework2-2021
-This is an SI339 repository.
+# hw2-2020
+The starter code for Homework 2 Winter 2021 term
